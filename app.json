@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Task4O",
+    "slug": "Task4O",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-localization"
+    ]
+  }
+}

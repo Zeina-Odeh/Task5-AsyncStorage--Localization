@@ -1,0 +1,29 @@
+{
+    "en-GB": {     
+      "search": "Search Products",
+      "addToCart": "Add to Cart",
+      "shoppingCartList":"Shopping Cart List",
+      "shoppingCart": "Shopping Cart",
+      "total": "Total",
+      "close": "Close",
+      "back": "Back",
+      "name": "Name:",
+      "price": "Price:",
+      "id": "ID:",
+      "description": "Description:"
+    },
+  
+    "ar-EG": {
+      "search": "البحث عن منتج",
+      "addToCart": "اضافة الى السلة",
+      "shoppingCart": "السلة",
+      "total": "الاجمالي:",
+      "close": "اغلاق",
+      "back": "رجوع",
+      "name": "اسم المنتج:",
+      "price": "السعر:",
+      "id": "الرقم التعريفي:",
+      "description": "الوصف:"
+
+    }
+  }
